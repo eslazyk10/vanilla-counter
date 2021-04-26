@@ -19,31 +19,12 @@ h1{
 
 button{
     background-color: #F3F8FF;
-    padding: 5px;
-    border-radius: 3px;
+    border-radius: 10px;
     margin-left: 8px;
     margin-top: 25px;
     text-transform: uppercase;
 }
 
-.btn-decrease{
-    color: darkred;
-    border: 2px solid darkred;
-}
-
-.btn-decrease:hover{
-    border: 4px solid darkred;
-}
-
-.btn-reset:hover{
+button:hover{
     border: 4px solid black;
-}
-
-.btn-increase{
-    color: darkgreen;
-    border: 2px solid darkgreen;
-}
-
-.btn-increase:hover{
-    border: 4px solid darkgreen;
 }
